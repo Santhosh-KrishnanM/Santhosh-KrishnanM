@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Computer Science Engineer passionate about turning ideas into impactful technology.<br><br>💻 Building full-stack applications, intelligent systems, and innovative software solutions.<br><br>🤖 Exploring AI/ML, Generative AI, Cybersecurity, and Cloud Technologies.<br><br>⚡ Skilled in Python, Java, C++, JavaScript, Flutter, Node.js, and MongoDB.<br><br>🔬 Researching AI-driven threat detection and privacy-preserving systems.<br><br>🎯 Driven by curiosity, problem-solving, and a passion for continuous innovation.<br><br>**Code. Create. Innovate. Repeat.**
+🚀 Computer Science Engineer passionate about turning ideas into impactful technology.<br><br>💻 Building full-stack applications, intelligent systems, and innovative software solutions.<br><br>🤖 Exploring AI/ML, Generative AI, Cybersecurity, and Cloud Technologies.<br><br>⚡ Skilled in Python, Java, C++, JavaScript, Node.js, and MongoDB.<br><br>🔬 Researching AI-driven threat detection and privacy-preserving systems.<br><br>🎯 Driven by curiosity, problem-solving, and a passion for continuous innovation.<br><br>**Code. Create. Innovate. Repeat.**
 
 
 ## 🌐 Socials:
